@@ -1,0 +1,5 @@
+{
+  "name": "ZenBoard AI - Smart Kanban",
+  "description": "A professional-grade Trello-style Kanban board featuring drag-and-drop functionality, task management, and an integrated Gemini AI assistant for task breakdown and productivity insights.",
+  "requestFramePermissions": []
+}
